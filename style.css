@@ -1,0 +1,20 @@
+* {
+margin: 0;
+    padding: 0;
+    font-family: 'Montserrat';
+}
+
+h1{
+    text-align: center;
+}
+
+
+#main{
+    margin: auto;
+    width: 50%;
+    width: 80%;
+    height: 50%;
+    overflow: auto;
+    border-radius: 10px;
+}
+}
